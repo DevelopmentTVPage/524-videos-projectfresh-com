@@ -10,6 +10,44 @@
         "loginId": "1758823",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "projectfresh.com"
+        "cookiedomain": "projectfresh.com",
+        "player": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.project1515.com"
+            },
+            "playback": {
+                "autoplay": true,
+                "autonext": false,
+                "preload": true
+            }
+        },
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.project1515.com"
+            },
+            "playback": {
+                "autoplay": true,
+                "autonext": false,
+                "preload": true
+            }
+        }
     }
 }
