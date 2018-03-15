@@ -25,9 +25,7 @@
                 "domain": "videos.project1515.com"
             },
             "playback": {
-                "autoplay": true,
-                "autonext": true,
-                "preload": true
+                "autoplay": true
             }
         },
         "hub": {
@@ -42,6 +40,9 @@
                     "email"
                 ],
                 "domain": "videos.project1515.com"
+            },
+            "playback": {
+                "autoplay": true
             }
         }
     }
