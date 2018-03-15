@@ -26,7 +26,8 @@
             },
             "playback": {
                 "autoplay": true,
-                "autonext": true
+                "autonext": true,
+                "preload": true
             }
         },
         "hub": {
@@ -44,7 +45,8 @@
             },
             "playback": {
                 "autoplay": true,
-                "autonext": true
+                "autonext": true,
+                "preload": true
             }
         }
     }
