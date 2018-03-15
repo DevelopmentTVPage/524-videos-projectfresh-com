@@ -29,6 +29,20 @@
                 "autonext": true,
                 "preload": true
             }
+        },
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.project1515.com"
+            }
         }
     }
 }
