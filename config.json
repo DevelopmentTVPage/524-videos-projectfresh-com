@@ -25,7 +25,9 @@
                 "domain": "videos.project1515.com"
             },
             "playback": {
-                "autoplay": true
+                "autoplay": true,
+                "autonext": true,
+                "preload": true
             }
         }
     }
