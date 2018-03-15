@@ -25,7 +25,8 @@
                 "domain": "videos.project1515.com"
             },
             "playback": {
-                "autoplay": true
+                "autoplay": true,
+                "autonext": true
             }
         },
         "hub": {
@@ -42,7 +43,8 @@
                 "domain": "videos.project1515.com"
             },
             "playback": {
-                "autoplay": true
+                "autoplay": true,
+                "autonext": true
             }
         }
     }
