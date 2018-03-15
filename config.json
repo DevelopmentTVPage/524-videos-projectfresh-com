@@ -23,6 +23,9 @@
                     "email"
                 ],
                 "domain": "videos.project1515.com"
+            },
+            "playback": {
+                "autoplay": true
             }
         }
     }
